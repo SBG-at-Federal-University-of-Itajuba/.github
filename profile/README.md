@@ -105,11 +105,62 @@ Detalhes: veja [`CONTRIBUTING.md`](../CONTRIBUTING.md) e [`CODE_OF_CONDUCT.md`](
 
 ## Core Team · UNIFEI
 
-| Nome | Papel | GitHub |
-|------|-------|--------|
-| Bruno Bianchi | Group Leader | [@BrunoBianchi](https://github.com/BrunoBianchi) |
+AWS Student Builder Group at **Federal University of Itajubá**.
 
-*Core Team e Founding Members: em formação — atualize esta tabela quando o time estiver registrado.*
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/BrunoBianchi">
+        <img src="profile/team/bruno-bianchi.jpg" width="100" height="100" style="border-radius:50%" alt="Bruno Bianchi"/>
+        <br /><sub><b>Bruno Raiado Bianchi</b></sub>
+      </a>
+      <br /><sub>Group Leader / Captain</sub>
+      <br /><sub><a href="https://github.com/BrunoBianchi">@BrunoBianchi</a></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/FabioStolf25">
+        <img src="profile/team/fabio-stolf.jpg" width="100" height="100" style="border-radius:50%" alt="Fabio Stolf"/>
+        <br /><sub><b>Fabio Pereira da Silva Stolf</b></sub>
+      </a>
+      <br /><sub>AI/ML Leader</sub>
+      <br /><sub><a href="https://github.com/FabioStolf25">@FabioStolf25</a></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/JoaoTravalini">
+        <img src="profile/team/joao-travalini.jpg" width="100" height="100" style="border-radius:50%" alt="João Travalini"/>
+        <br /><sub><b>João Paulo Motta Travalini</b></sub>
+      </a>
+      <br /><sub>Backend Leader</sub>
+      <br /><sub><a href="https://github.com/JoaoTravalini">@JoaoTravalini</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/ottaviolucrii">
+        <img src="profile/team/ottavio-lucri.jpg" width="100" height="100" style="border-radius:50%" alt="Ottavio Lucri"/>
+        <br /><sub><b>Ottavio Lucri de Souza</b></sub>
+      </a>
+      <br /><sub>Mobile Leader</sub>
+      <br /><sub><a href="https://github.com/ottaviolucrii">@ottaviolucrii</a></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="profile/team/livia-mendes.jpg" width="100" height="100" style="border-radius:50%" alt="Lívia Mendes"/>
+      <br /><sub><b>Lívia Mendes Borges</b></sub>
+      <br /><sub>Marketing Leader</sub>
+      <br /><sub>GitHub em breve</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/flaviaciprianosantos-maker">
+        <img src="profile/team/flavia-cipriano.jpg" width="100" height="100" style="border-radius:50%" alt="Flávia Cipriano"/>
+        <br /><sub><b>Flávia Cipriano</b></sub>
+      </a>
+      <br /><sub>Cyber Security Leader</sub>
+      <br /><sub><a href="https://github.com/flaviaciprianosantos-maker">@flaviaciprianosantos-maker</a></sub>
+    </td>
+  </tr>
+</table>
+
+> Fotos de Lívia e Flávia: usei as que você enviou. Se a associação estiver invertida, me avisa que eu troco. O GitHub da Lívia ainda não achei — manda o `@` se tiver.
 
 ---
 
